@@ -1,1 +1,1 @@
-# Fibonacci-Series-ArrayList-
+Danish, a junior developer, has been assigned the task of generating the first fibonacci numbers in java. The fibonacci sequence is a series of numbers where each number is the sum of the two preceding ones,starting from 0 to 1. The task requires Danish to implement a Java Program that prints  the first 5 fibonnaci numbers using ArrayList. 
